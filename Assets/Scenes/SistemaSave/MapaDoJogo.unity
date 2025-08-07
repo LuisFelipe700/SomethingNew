@@ -678,6 +678,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   saveGame: {fileID: 596512611}
+  continuaButton: {fileID: 0}
+  localCheckPoint: {x: 0, y: 0, z: 0}
+  som: {fileID: 0}
 --- !u!4 &338308926
 Transform:
   m_ObjectHideFlags: 0
